@@ -2,8 +2,7 @@
 
 I'm Angie, a front end software developer looking to improve systems one feature at a time.
 
-- 🔭 I’m currently working on an app where a user can hear sounds and guess what they are
-- 🌱 I’m currently learning graphQL
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about where I've lived
 - 📫 How to reach me: awirth224@gmail.com
 - 😄 Pronouns: she/her
